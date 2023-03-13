@@ -17,6 +17,6 @@ Repositório destinado a disciplina de Teoria dos Grafos Aplicada, durante o cur
 > 13. [x] Determinar se uma dada sequência de vértices constitui um ciclo
 > 14. [x] Determinar se uma dada sequência de vértices constitui uma trilha
 > 15. [x] Determinar se uma dada sequência de vértices constitui um clique
-> 16. [] Determinar se uma dada sequência de vértices constitui um clique maximal
-> 17. [] Determinar as arestas do complemento de um dado grafo
-> 18. [] Determinar se um dado conjunto de vértices constitui um conjunto independente do grafo
+> 16. [ ] Determinar se uma dada sequência de vértices constitui um clique maximal
+> 17. [ ] Determinar as arestas do complemento de um dado grafo
+> 18. [ ] Determinar se um dado conjunto de vértices constitui um conjunto independente do grafo
