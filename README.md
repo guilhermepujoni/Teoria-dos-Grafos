@@ -2,7 +2,7 @@
 Repositório destinado a disciplina de Teoria dos Grafos Aplicada, durante o curso de Ciência de Dados e Inteligência Artificial na UFPB
 
 > Com base num grupo específico de grafos foram feitas funções para verificar as multíplas características presentes em um grafo simples.
-> 01. [x] Leitura e representação do grafo
+> - [x] Leitura e representação do grafo
 > 02. [x] Graus mínimo e máximo
 > 03. [x] Sequência de graus
 > 04. [x] Grau e vizinhanças de um vértice v
